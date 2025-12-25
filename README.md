@@ -1,6 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1300536579307077697/1453597091355164775/Gemini_Generated_Image_j6i47tj6i47tj6i4-removebg-preview.png?ex=694e0749&is=694cb5c9&hm=936d8a16e24f6eb717015f84592eaac191bc4f3836ac73dcfbafe44a2c76009a" align="left" width="100" height="100" style="margin-right: 20px">
 
 # Adobe Blocker v1.0
+
 <br clear="left"/>
 
 A premium, minimalist utility designed to automate Windows Firewall rules for Adobe software. One-click privacy and total network control.
