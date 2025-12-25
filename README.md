@@ -1,5 +1,6 @@
 # Adobe-blocker
 A modern, lightweight utility built with C# and WPF to automate Windows Firewall rules for Adobe products.
+
 🚀 Key Features
 Deep Scan Engine: Automatically identifies all Adobe installations across system directories (Program Files, Common Files, etc.).
 One-Click Rule Enforcement: Simultaneously creates Inbound and Outbound block rules for every executable found.
