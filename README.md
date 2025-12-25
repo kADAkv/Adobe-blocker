@@ -1,17 +1,23 @@
-# Adobe-blocker
-A modern, lightweight utility built with C# and WPF to automate Windows Firewall rules for Adobe products.
+# 🛡️ Adobe Blocker v1.0
 
-/// Key Features
-/ Deep Scan Engine: Automatically identifies all Adobe installations across system directories (Program Files, Common Files, etc.).
-/ One-Click Rule Enforcement: Simultaneously creates Inbound and Outbound block rules for every executable found.
-/ Instant Cleanup: Removes all custom firewall rules created by the app in a single second.
-/ Single Executable: Self-contained build (~80-100MB). No .NET installation or external DLLs required.
-/ Modern UI/UX: Clean, dark-themed interface with fluid animations and real-time progress tracking.
-///
+A premium, minimalist utility designed to automate Windows Firewall rules for Adobe software. 
 
-/// Tech Stack
-/ Language: C#
-/ Framework: .NET 8.0 / WPF
-/ Methodology: Native Windows Shell commands (netsh advfirewall)
-/ Deployment: Single-file Publish (AOT-ready)
-///
+---
+
+### ✨ Features
+| Feature | Description |
+| :--- | :--- |
+| **🔍 Deep Scan** | Automatically locates all Adobe executables in system folders. |
+| **🚫 Global Block** | Creates Inbound & Outbound firewall rules in one click. |
+| **🧹 Rule Cleanup** | Instantly wipes all custom rules created by the app. |
+| **🎨 Modern UI** | Sleek dark interface with glass-morphism and fluid animations. |
+
+---
+
+### 💻 Tech Stack
+* **Language:** C#
+* **Framework:** .NET 8.0 (WPF)
+* **API:** Windows Shell / Netsh Firewall
+* **Architecture:** Single-file Self-contained (AOT-ready)
+
+---
